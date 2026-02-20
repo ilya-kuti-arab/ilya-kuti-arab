@@ -21,7 +21,7 @@
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:eliyakooti@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
